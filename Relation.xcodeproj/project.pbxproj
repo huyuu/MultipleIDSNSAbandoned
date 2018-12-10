@@ -14,6 +14,7 @@
 		260E474E219C6077008B6271 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 260E474C219C6077008B6271 /* Main.storyboard */; };
 		260E4750219C607A008B6271 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 260E474F219C607A008B6271 /* Assets.xcassets */; };
 		260E4753219C607A008B6271 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 260E4751219C607A008B6271 /* LaunchScreen.storyboard */; };
+		2659626521BE42F40020BCE4 /* Main1TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2659626421BE42F40020BCE4 /* Main1TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		260E474F219C607A008B6271 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		260E4752219C607A008B6271 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		260E4754219C607A008B6271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2659626421BE42F40020BCE4 /* Main1TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main1TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				260E4748219C6077008B6271 /* DataViewController.swift */,
 				260E474A219C6077008B6271 /* ModelController.swift */,
 				260E474C219C6077008B6271 /* Main.storyboard */,
+				2659626421BE42F40020BCE4 /* Main1TableViewController.swift */,
 				260E474F219C607A008B6271 /* Assets.xcassets */,
 				260E4751219C607A008B6271 /* LaunchScreen.storyboard */,
 				260E4754219C607A008B6271 /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				260E4747219C6077008B6271 /* RootViewController.swift in Sources */,
 				260E474B219C6077008B6271 /* ModelController.swift in Sources */,
+				2659626521BE42F40020BCE4 /* Main1TableViewController.swift in Sources */,
 				260E4749219C6077008B6271 /* DataViewController.swift in Sources */,
 				260E4745219C6077008B6271 /* AppDelegate.swift in Sources */,
 			);
